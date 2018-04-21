@@ -1,4 +1,4 @@
-import { IKeyPairBytes } from '../../interfaces';
+import { IKeyPairBytes } from '../interfaces';
 
 import * as CryptoJS from 'crypto-js';
 

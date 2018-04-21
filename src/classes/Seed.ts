@@ -1,4 +1,4 @@
-import { IKeyPair } from '../../interfaces';
+import { IKeyPair } from '../interfaces';
 
 import base58 from '../libs/base58';
 import crypto from '../utils/crypto';

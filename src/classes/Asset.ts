@@ -1,4 +1,4 @@
-import { IAssetObject, IHash } from '../../interfaces';
+import { IAssetObject, IHash } from '../interfaces';
 
 import { getStorage } from '../utils/storage';
 import { WAVES_PROPS } from '../constants';

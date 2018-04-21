@@ -1,4 +1,4 @@
-import { IHash, IKeyPair } from '../../../interfaces';
+import { IHash, IKeyPair } from '../../interfaces';
 
 import v1Info from './v1/info';
 import v1Orderbooks from './v1/orderbooks';

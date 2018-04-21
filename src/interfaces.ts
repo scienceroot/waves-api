@@ -73,12 +73,3 @@ declare global {
         captureStackTrace(thisArg: any, func: any): void;
     }
 }
-
-
-// Replacement for --allowJs
-declare module '*.js' {
-    const content: {
-        [key: string]: any;
-    };
-    export = content;
-}

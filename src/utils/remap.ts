@@ -1,4 +1,4 @@
-import { IHash } from '../../interfaces';
+import { IHash } from '../interfaces';
 import * as constants from '../constants';
 import config from '../config';
 

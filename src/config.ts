@@ -1,4 +1,4 @@
-import { IHash, IWavesConfig } from '../interfaces';
+import { IHash, IWavesConfig } from './interfaces';
 
 import { DEFAULT_BASIC_CONFIG } from './constants';
 import { normalizeHost } from './utils/request';

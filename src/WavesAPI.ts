@@ -1,4 +1,4 @@
-import { IHash, IWavesConfig } from '../interfaces';
+import { IHash, IWavesConfig } from './interfaces';
 import { ITransactionClassConstructor } from './classes/Transactions';
 
 import BigNumberLibrary from './libs/bignumber';

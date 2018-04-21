@@ -1,4 +1,4 @@
-import { IHash, IKeyPair } from '../../interfaces';
+import { IHash, IKeyPair } from '../interfaces';
 import { ITransactionClassConstructor } from '../classes/Transactions';
 import * as create from 'parse-json-bignumber';
 

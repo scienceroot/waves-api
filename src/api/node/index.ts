@@ -1,4 +1,4 @@
-import { IAPIBalanceOptions, IAPITransactionsOptions, IHash, IKeyPair } from '../../../interfaces';
+import { IAPIBalanceOptions, IAPITransactionsOptions, IHash, IKeyPair } from '../../interfaces';
 
 import v1Addresses from './v1/addresses';
 import v1Aliases from './v1/aliases';

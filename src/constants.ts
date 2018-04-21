@@ -1,4 +1,4 @@
-import { IAssetObject, IWavesBasicConfig, IWavesConfig } from '../interfaces';
+import { IAssetObject, IWavesBasicConfig, IWavesConfig } from './interfaces';
 
 
 export const WAVES = 'WAVES';

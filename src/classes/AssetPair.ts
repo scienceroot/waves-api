@@ -1,4 +1,4 @@
-import { IHash } from '../../interfaces';
+import { IHash } from '../interfaces';
 import { IAsset } from './Asset';
 
 import { v1 as MatcherAPIv1 } from '../api/matcher/index';

@@ -1,4 +1,4 @@
-import { IAPIBalanceOptions, IAPITransactionsOptions } from '../../../../interfaces';
+import { IAPIBalanceOptions, IAPITransactionsOptions } from '../../../interfaces';
 
 import * as schemas from './addresses.x';
 import * as constants from '../../../constants';

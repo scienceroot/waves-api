@@ -1,4 +1,4 @@
-import { IHash } from '../../interfaces';
+import { IHash } from '../interfaces';
 
 import { ByteProcessor, Alias, Base58, Bool, Byte, Long, StringWithLength, AssetId, Attachment, MandatoryAssetId, OrderType, Recipient } from './ByteProcessor';
 

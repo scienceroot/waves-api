@@ -1,4 +1,4 @@
-import { IKeyPair } from '../../../../interfaces';
+import { IKeyPair } from '../../../interfaces';
 import { TTransactionRequest } from '../../../utils/request';
 
 import Transactions from '../../../classes/Transactions';
