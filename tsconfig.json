@@ -10,6 +10,8 @@
     "module": "commonjs",
     "sourceMap": true,
     "target": "es5",
+    "moduleResolution": "node",
+    "importHelpers": true,
     "paths": {
       "parse-json-bignumber": [
         "node_modules/parse-json-bignumber/dist/parse-json-bignumber"
