@@ -1,4 +1,4 @@
-import { IMassTransferTransfers } from '../../interfaces';
+import { IMassTransferTransfers } from '../interfaces';
 
 import base58 from '../libs/base58';
 import convert from '../utils/convert';
